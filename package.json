@@ -1,0 +1,24 @@
+{
+  "name": "code-minifier.browser",
+  "version": "1.0.7",
+  "description": "An NPM package for minifying code within the browser.",
+  "main": "src/minify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inf3cti0n/code-minifier.browser.git"
+  },
+  "keywords": [
+    "npm",
+    "minify",
+    "browser"
+  ],
+  "author": "D3Vx0PS 4424dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inf3cti0n/code-minifier.browser/issues"
+  },
+  "homepage": "https://github.com/inf3cti0n/code-minifier.browser#readme"
+}
