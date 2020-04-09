@@ -47,7 +47,7 @@ Updated file README.md.
 
 ***
 
-1.1.2
+1.1.3
 
 Support Addition
 
@@ -56,5 +56,7 @@ Added support for CSS.
 Bug Fixes
 
 Updated file README.md.
+
+Added `default` statement.
 
 Added support for ACE editor; check example.
