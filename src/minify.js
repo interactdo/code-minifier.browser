@@ -20,6 +20,8 @@ module.exports = {
                     options = "";
                 }
                 return new CSS(options).minify(code)[Object.keys(new CSS(options).minify(code))[0]];
+            default:
+                return code;
         }
     }
 };
