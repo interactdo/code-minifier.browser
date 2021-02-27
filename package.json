@@ -1,5 +1,5 @@
 {
-  "name": "@inf3cti0n/code-minifier.browser",
+  "name": "code-minifier.browser",
   "version": "1.1.2",
   "description": "An NPM package for minifying code within the browser.",
   "main": "src/minify.js",
